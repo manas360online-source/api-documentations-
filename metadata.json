@@ -1,0 +1,5 @@
+{
+  "name": "MedCore API Developer Portal",
+  "description": "Interactive API documentation for the MedCore Hospital Management System, featuring live AI-powered endpoint testing, comprehensive schemas for patient and therapist data, and integration guides.",
+  "requestFramePermissions": []
+}
